@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>9478894_stock-photo-back-view-adorable-cat-couple-with-one-looking-behind.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\data\images\train\9478894_stock-photo-back-view-adorable-cat-couple-with-one-looking-behind.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>55</ymin>
+			<xmax>507</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
-	<filename>11.jpg</filename>
-	<path>C:\Users\Lenovo\Desktop\data\images\train\11.jpg</path>
+	<filename>70045912_58145469_kot1.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\data\images\train\70045912_58145469_kot1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>795</width>
-		<height>391</height>
+		<width>700</width>
+		<height>616</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>170</xmin>
-			<ymin>26</ymin>
-			<xmax>425</xmax>
-			<ymax>301</ymax>
+			<xmin>204</xmin>
+			<ymin>133</ymin>
+			<xmax>423</xmax>
+			<ymax>463</ymax>
 		</bndbox>
 	</object>
 </annotation>

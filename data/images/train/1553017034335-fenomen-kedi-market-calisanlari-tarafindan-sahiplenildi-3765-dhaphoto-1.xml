@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>1553017034335-fenomen-kedi-market-calisanlari-tarafindan-sahiplenildi-3765-dhaphoto-1.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\data\images\train\1553017034335-fenomen-kedi-market-calisanlari-tarafindan-sahiplenildi-3765-dhaphoto-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>47</ymin>
+			<xmax>500</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>
