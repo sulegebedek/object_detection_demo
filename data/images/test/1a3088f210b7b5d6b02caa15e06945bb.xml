@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>1a3088f210b7b5d6b02caa15e06945bb.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\data\images\test\1a3088f210b7b5d6b02caa15e06945bb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>343</ymin>
+			<xmax>410</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+</annotation>
